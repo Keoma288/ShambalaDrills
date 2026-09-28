@@ -1,0 +1,7 @@
+theme: jekyll-theme-hacker
+title: Shambala SF6 Drills
+tagline: Documentar Drills de treinos para serem usados através do mod "Training Mode Drill Share"
+description: Documentar Drills de treinos para serem usados através do mod "Training Mode Drill Share"
+logo: /assets/SF6Logo.png
+plugins:
+  - jekyll-seo-tag
