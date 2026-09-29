@@ -4,3 +4,4 @@ Documentar drills de treino por personagem, para serem utilizados através do [T
 
 # Drills
 * [Drills de Alex](AlexDrills.md)
+* [Drills da Marisa](MarisaDrills.md)
